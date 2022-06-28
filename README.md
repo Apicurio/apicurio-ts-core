@@ -12,7 +12,7 @@ This project is licensed under the [Apache License 2.0](LICENSE).
 For details on how to use the library, see the documentation included with the library on
 npmjs.com:
 
-  [https://www.npmjs.com/package/apicurio-ts-core](https://www.npmjs.com/package/apicurio-ts-core)
+  [https://www.npmjs.com/package/@apicurio/core](https://www.npmjs.com/package/@apicurio/core)
 
 This documentation can also be found in this repository here:
 
@@ -75,7 +75,7 @@ the `package.json` file:
 
 ```json
 {
-  "name": "apicurio-ts-core",
+  "name": "@apicurio/core",
   "version": "0.1.4",
   "description": "A library containing some common classes used by various other Apicurio projects.",
   "license": "Apache-2.0"
